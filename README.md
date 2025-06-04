@@ -14,9 +14,9 @@ Computer Science and Engineering Student
 -  😉 Fun fact: I enjoy building random mini-projects just for fun!
 
   ### I code in 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>&nbsp;&nbsp;<img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>&nbsp;&nbsp;<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 ### IDE and Tools I Use
-<img width="50" height="50" src="https://img.icons8.com/fluency-systems-filled/50/228BE6/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/officexs/16/java-eclipse.png" alt="java-eclipse"/> <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency-systems-filled/50/228BE6/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/officexs/16/java-eclipse.png" alt="java-eclipse"/> &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/> &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/material/24/228BE6/mysql-logo.png" alt="mysql-logo"/>
 
 
 ![Kaviya's github stats](https://github-readme-stats.vercel.app/api?username=kaviya-sivasankar&theme=dark&show_icons=true&&hide=issues,contribs)
